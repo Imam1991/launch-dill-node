@@ -9,7 +9,7 @@ if [ $# -ge 1 ];then
     download=$1
 fi
 
-version="v1.0.3"
+version="v1.0.4"
 function launch_dill() {
     
     # Ask for OS type
